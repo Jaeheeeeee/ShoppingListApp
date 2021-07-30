@@ -9,6 +9,8 @@
 
 
 <h1>개선사항</h1>
-<input type="checkbox"> 리스트 추가 갯수 제한하기
-<input type="checkbox"> 리스트 내용 세션에 저장하기
-<input type="checkbox"> UI 디자인 
+<ul>
+  <li>리스트 추가 갯수 제한하기</li>
+  <li>리스트 내용 세션에 저장하기</li>
+  <li>UI 개선</li>
+</ul>
