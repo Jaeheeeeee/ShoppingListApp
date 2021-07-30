@@ -5,7 +5,7 @@
     <li>리스트 내용 전체삭제 (전체삭제버튼 누를시 확인창⚠️)</li>
   </ul>
 <h1>미리보기</h1>
-![ShoppingList](https://user-images.githubusercontent.com/87287296/127650300-1124d897-52b2-4daf-b166-d17366c6a36c.gif)
+<img width="471" alt="SoppingListImg" src="https://user-images.githubusercontent.com/87287296/127650468-0a43f660-cd83-4114-b91b-f45fcf30319a.gif">
 
 
 <h1>개선사항</h1>
